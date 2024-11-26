@@ -10,3 +10,23 @@ Use numeral awareness.  Follow the below rules:
 1) Identify numbers of importance
 2) Perform proper numerical operations as needed to summarize
 3) Use at least one digit (for example, 1, 29.4, 32K) in your headline
+
+
+
+Scenario 1:
+in our prompt
+1) copy
+2) transform
+3) paraphase
+4) add
+
+
+Scenario 2:
+1) copy
+2) 2x transform
+3) 2x paraphrase
+4) add
+
+Scenario 3: 
+1) transform
+2) paraphase
